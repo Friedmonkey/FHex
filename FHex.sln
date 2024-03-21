@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FHex", "FHex\FHex.csproj", "{247283E8-066A-4964-A7CE-FCEF55A4F0F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247283E8-066A-4964-A7CE-FCEF55A4F0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247283E8-066A-4964-A7CE-FCEF55A4F0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247283E8-066A-4964-A7CE-FCEF55A4F0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247283E8-066A-4964-A7CE-FCEF55A4F0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306D12AB-A522-40AD-910A-6C4FDB4A3B0A}
+	EndGlobalSection
+EndGlobal
